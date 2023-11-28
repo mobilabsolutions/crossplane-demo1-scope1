@@ -1,0 +1,7 @@
+apiVersion: isaac.mblb.net/v1alpha1
+kind: LakeHouse
+metadata:
+  name: lakehouse1
+spec:
+  resourceGroupName: rg-scope-scope1
+  providerConfigName: provider-config-scope1
